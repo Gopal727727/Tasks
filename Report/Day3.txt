@@ -1,0 +1,10 @@
+1) CSS concept learned:
+- inline and internal css. inline is used alongside tag and internal is used inside <head> tag.
+- Class is used to select group of element. A .Class_name syntax is used to select the group for styling.
+- ID is used to select only one element Uniquely. A #id_name syntax is used to select a item for styling.
+
+2) code: 
+-refer the index.html file
+
+3) Challenges Faced:
+- None

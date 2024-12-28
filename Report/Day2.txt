@@ -1,0 +1,12 @@
+1) Explanation of tags used:
+- <h2> is used for headings, it size ranges from h1-h6 (largest -> smallest)
+- <ul> is unordered list.
+- <a> is used for hyperlink.
+- <img> is used to display image with a source (usually a url or relative path).
+- <section> divides the html into sections. <footer> is used to make page footer.
+
+2) code: 
+-refer the index.html file
+
+3) Challenges Faced:
+- None

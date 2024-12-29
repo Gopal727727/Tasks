@@ -1,0 +1,7 @@
+1) Advantages of using external css:
+- It makes the code clean.
+- It seperates styling from html.
+- Easy to fix errors in styling.
+
+2) Challenges faced 
+-none

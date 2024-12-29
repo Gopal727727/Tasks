@@ -1,2 +1,2 @@
 -Installed all dependencies needed for web development.
--Learned the basic html structure like <html> <head> <body> etc.
+-Learned the basic html structure like <!doctype>,<html>,<head> and <body> etc.

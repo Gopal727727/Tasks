@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(200, 235, 235);
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,h2{
+    color: rgb(120, 233, 120);
+    font-size: 40px;
+    border-bottom: 1px solid rgb(241, 173, 173);
+}
+
+ul li{
+    list-style-type: square;
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    border-top: 2px solid red;
+    background-color: rgb(233, 186, 125);
+    padding: 10px;
+}
+
+ul>li{
+    color: rgb(170, 119, 23);
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgb(12, 126, 12);
+}
+
+img{
+    width: 800px;
+}

@@ -1,0 +1,4 @@
+1) What is box model and how i appllied it.
+- The CSS box model is a box that wraps around every HTML element. It consists of: content, padding, borders and margins.
+
+- I applied CSS box model by giving a border to my content then adding a prefered padding and margin to it.

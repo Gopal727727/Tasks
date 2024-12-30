@@ -8,8 +8,14 @@ body {
 
 h1,h2{
     color: rgb(120, 233, 120);
+    padding: 20px;
     font-size: 40px;
-    border-bottom: 1px solid rgb(241, 173, 173);
+    border: 1px solid red;
+    margin-bottom: 40px;
+}
+
+#name{
+    text-align: center;
 }
 
 ul li{
@@ -19,9 +25,9 @@ ul li{
 
 footer{
     text-align: center;
-    border-top: 2px solid red;
+    border-top: 8px solid red;
     background-color: rgb(233, 186, 125);
-    padding: 10px;
+    padding: 20px;
 }
 
 ul>li{
@@ -35,4 +41,31 @@ a:hover{
 
 img{
     width: 800px;
+    margin-left: 40vh;
+}
+
+#box{
+    width: 70vh;
+    height: 50vh;
+    background-color: rgb(195, 156, 233);
+    border: 2px red;
+    border-radius: 25px;
+    padding: 20px;
+    margin: auto;
+    overflow: auto;
+    word-wrap: break-word;
+    text-align: justify;
+    /* hide scrollbar */
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+li{
+    padding: 10px;
+}
+
+ul{
+    padding-left: 20px;
+    border: 1px solid red;
+    margin: 10vh;
 }

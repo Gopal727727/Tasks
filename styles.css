@@ -6,7 +6,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1,h2{
+.heading{
     color: rgb(120, 233, 120);
     padding: 20px;
     font-size: 40px;
@@ -18,7 +18,7 @@ h1,h2{
     text-align: center;
 }
 
-ul li{
+ul .list-item{
     list-style-type: square;
     margin-bottom: 10px;
 }
@@ -60,7 +60,7 @@ img{
     -ms-overflow-style: none;
 }
 
-li{
+.list-item{
     padding: 10px;
 }
 

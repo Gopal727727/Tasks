@@ -1,0 +1,2 @@
+1) How media queries helps to make my page responsive
+- Media queries apply css uniquely according to screen sizes. This allowed me to have diffrent style for diffrent screen sizes. This ensured that the style was consistent throught diffrent screens (mobile ,tablet or monitor).

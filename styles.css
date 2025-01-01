@@ -37,10 +37,9 @@ body {
     display: flex;
     gap: 40px;
     justify-content: flex-end;
-    background-color: #866464; 
+    background-color: #c77c7c; 
     padding: 10px 20px; 
 }
-
 
 .nav-link {
     color: white; 
@@ -50,7 +49,82 @@ body {
 }
 
 .nav-link:hover {
-    background-color: #111111; 
+    background-color: #e4aeae; 
     color: #ffcc00; 
     border-radius: 50px; 
+}
+
+
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+        
+        background-color: #111111;
+    }
+
+    .nav-link {
+        font-size: 16px;
+        text-align: center;
+        margin-left: -10px;
+        padding: 10px;
+        width: 100%;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        height: auto;
+        margin-top: 5vh;
+        gap: 10px;
+    }
+
+    .flex-item {
+        font-size: 24px;
+        line-height: 50px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .navbar {
+        justify-content: center;
+    }
+
+    .nav-link {
+        font-size: 18px;
+        padding: 15px;
+    }
+
+    .flex-container {
+        justify-content: center;
+        align-items: flex-start;
+        margin-top: 8vh;
+        gap: 15px;
+    }
+
+    .flex-item {
+        font-size: 28px;
+        line-height: 65px;
+        padding: 15px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .navbar {
+        justify-content: flex-end;
+    }
+
+    .nav-link {
+        font-size: 18px;
+        padding: 20px;
+    }
+
+    .flex-container {
+        gap: 20px;
+    }
+
+    .flex-item {
+        font-size: 30px;
+        line-height: 75px;
+        padding: 20px;
+    }
 }

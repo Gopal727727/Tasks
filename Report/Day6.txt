@@ -1,0 +1,2 @@
+1)  How Flexbox helped me in organizing and aligning elements
+- Flexbox simplifies aligning and organizing elements by allowing dynamic spacing and positioning. It provides easy control over horizontal and vertical alignment, item sizing, and spacing between elements with properties like justify-content, align-items, and gap. It also support flex-shrink and flex-grow to either shrink or grow a flex item width relative to other flex item.

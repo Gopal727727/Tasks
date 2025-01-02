@@ -1,0 +1,3 @@
+1) How grid layout differ from flex and when to use it.
+- Grid is mostly used for creating 2-D layouts while flex is mostly used for 1-D layouts like navbar.
+  I would use grid over flex if i want a 2-D structured design like dashboard.
